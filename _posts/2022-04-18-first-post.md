@@ -18,3 +18,10 @@ Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다
 YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
 이 글의 제목은 {{ page.title }}이고
 마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
+
+참고 사이트
+https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+https://choiiis.github.io/
+https://devinlife.com/howto%20github%20pages/first-post/
+http://blog.slarea.com/git/blog/start/
+https://zeddios.tistory.com/1223
